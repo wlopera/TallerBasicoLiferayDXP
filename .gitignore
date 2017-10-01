@@ -1,0 +1,7 @@
+# Eclipse IDE: Archivos de configuracion
+.classpath
+.project
+pais-web/.settings/*
+pais-web/.gradle/*
+pais-web/bin/*
+pais-web/build/*

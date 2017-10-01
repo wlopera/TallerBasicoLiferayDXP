@@ -1,0 +1,33 @@
+buildscript {
+	dependencies {
+		classpath group: "com.liferay", name: "com.liferay.gradle.plugins", version: "$gradlePluginsVersion"
+	}
+	repositories {
+		mavenLocal()
+		maven {
+			url "https://cdn.lfrs.sl/repository.liferay.com/nexus/content/groups/public"
+		}
+	}
+}
+
+apply plugin: "com.liferay.plugin"
+
+dependencies {
+    //Dependencias del proyecto
+    compileOnly "javax.ws.rs:javax.ws.rs-api:$jaxWsRsVersion"
+    compile "org.jodd:jodd-json:$jsonVersion"
+
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel", version: "$kernelVersion"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.util.taglib", version: "$taglibVersion"
+	compileOnly group: "javax.portlet", name: "portlet-api", version: "$portletApiVersion"
+	compileOnly group: "javax.servlet", name: "servlet-api", version: "$servletApiVersion"
+	compileOnly group: "jstl", name: "jstl", version: "$jstlVersion"
+	compileOnly group: "org.osgi", name: "org.osgi.compendium", version: "$compendiumVersion"
+}
+
+repositories {
+	mavenLocal()
+	maven {
+		url "https://cdn.lfrs.sl/repository.liferay.com/nexus/content/groups/public"
+	}
+}
