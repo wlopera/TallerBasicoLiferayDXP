@@ -67,22 +67,22 @@
 		</div>
 		<button type="button" class="btn btn-success btn-small"
 			ng-click="ctrl.agregarPais();">
-			<span class="glyphicon glyphicon-search"></span> Agregar
+			<span class="glyphicon glyphicon-plus"></span> Agregar
 		</button>
 		
 		<button type="button" class="btn btn-success btn-small"
 			ng-click="ctrl.modificarPais();">
-			<span class="glyphicon glyphicon-search"></span> Modificar
+			<span class="glyphicon glyphicon-pencil"></span> Modificar
 		</button>
 		
 		<button type="button" class="btn btn-success btn-small"
 			ng-click="ctrl.borrarPais();">
-			<span class="glyphicon glyphicon-search"></span> Borrar
+			<span class="glyphicon glyphicon-minus"></span> Borrar
 		</button>
 		
 		<button type="button" class="btn btn-success btn-small"
 			ng-click="ctrl.limpiarCampos();">
-			<span class="glyphicon glyphicon-search"></span> Limpiar
+			<span class="glyphicon glyphicon-trash"></span> Limpiar
 		</button>	
 	</div>
 </div>
