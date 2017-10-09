@@ -1,3 +1,7 @@
 Bundle-Name: Modulo OSGI -- Pais-WEB
 Bundle-SymbolicName: com.pais.web
 Bundle-Version: 1.0.0
+
+Import-Package: com.pais.api,\
+                com.pais.model,\
+                *

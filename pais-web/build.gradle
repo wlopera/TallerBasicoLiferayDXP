@@ -23,6 +23,9 @@ dependencies {
 	compileOnly group: "javax.servlet", name: "servlet-api", version: "$servletApiVersion"
 	compileOnly group: "jstl", name: "jstl", version: "$jstlVersion"
 	compileOnly group: "org.osgi", name: "org.osgi.compendium", version: "$compendiumVersion"
+	
+	// Servicios APIs
+	compileOnly group: "com.pais", name: "com.pais.api", version: "1.0.0"
 }
 
 repositories {

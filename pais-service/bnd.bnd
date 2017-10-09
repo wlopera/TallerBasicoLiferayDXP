@@ -1,0 +1,9 @@
+Bundle-Name: Modulo OSGI -- Pais-Service
+Bundle-SymbolicName: com.pais.service
+Bundle-Version: 1.0.0
+
+Import-Package: com.pais.api,\
+                com.pais.model,\
+                *
+                
+Private-Package: com.pais.service

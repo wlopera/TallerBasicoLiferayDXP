@@ -1,0 +1,1321 @@
+{
+  "paises":
+  [
+    {
+      "id":"1",
+      "nombre":"Afganist\u00e1n",
+      "capital":"Kabul",
+      "moneda":"Afghan\u00ed",
+      "idioma":"Pashtu y Darit"
+    },
+    {
+      "id":"2",
+      "nombre":"Albania",
+      "capital":"Tirana",
+      "moneda":"Nuevo Lek",
+      "idioma":"Alban\u00e9s"
+    },
+    {
+      "id":"3",
+      "nombre":"Alemania",
+      "capital":"Berlin",
+      "moneda":"Marco A.",
+      "idioma":"Alem\u00e1n"
+    },
+    {
+      "id":"4",
+      "nombre":"Andorra",
+      "capital":"Andorra la Vella",
+      "moneda":"Peseta y Franco",
+      "idioma":"Catal\u00e1n"
+    },
+    {
+      "id":"5",
+      "nombre":"Angola",
+      "capital":"Luanda",
+      "moneda":"Nuevo kawanza",
+      "idioma":"Portugues"
+    },
+    {
+      "id":"6",
+      "nombre":"A. Saudita",
+      "capital":"Jiddah",
+      "moneda":"Rival",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"7",
+      "nombre":"Argelia",
+      "capital":"Argel",
+      "moneda":"Dinar A.",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"8",
+      "nombre":"Argentina",
+      "capital":"Buenos Aires",
+      "moneda":"Peso",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"9",
+      "nombre":"Armenia",
+      "capital":"Yerew\u00e1n",
+      "moneda":"D\u00f3lar",
+      "idioma":"Armenio"
+    },
+    {
+      "id":"10",
+      "nombre":"Australia",
+      "capital":"Camberra",
+      "moneda":"D\u00f3lar A.",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"11",
+      "nombre":"Austria",
+      "capital":"Viena",
+      "moneda":"Schilling",
+      "idioma":"Alem\u00e1n"
+    },
+    {
+      "id":"12",
+      "nombre":"Azerbaiyan",
+      "capital":"Bak\u00fa",
+      "moneda":"Manat",
+      "idioma":"Azerbaiyano"
+    },
+    {
+      "id":"13",
+      "nombre":"Bahamas",
+      "capital":"Nassau",
+      "moneda":"D\u00f3lar Bahame\u00f1o",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"14",
+      "nombre":"Baherin",
+      "capital":"Manama",
+      "moneda":"Dinar",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"15",
+      "nombre":"Bangladesh",
+      "capital":"Dacca",
+      "moneda":"Taka",
+      "idioma":"Bengal\u00ed"
+    },
+    {
+      "id":"16",
+      "nombre":"B\u00e1rbados",
+      "capital":"Ridgetow",
+      "moneda":"D\u00f3lar de Bar.",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"17",
+      "nombre":"Belar\u00fas",
+      "capital":"Minsk",
+      "moneda":"Rubel",
+      "idioma":"Belaruso"
+    },
+    {
+      "id":"18",
+      "nombre":"B\u00e9lgica",
+      "capital":"Bruselas",
+      "moneda":"Franco-Belga",
+      "idioma":"Nerland\u00e9z"
+    },
+    {
+      "id":"19",
+      "nombre":"Belice",
+      "capital":"Belmopan",
+      "moneda":"D\u00f3lar B\u00e9lgica",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"20",
+      "nombre":"Benin",
+      "capital":"Porto Novo",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"21",
+      "nombre":"Bhut\u00e1n",
+      "capital":"Timbu",
+      "moneda":"Ngultrum",
+      "idioma":"Dzongkha"
+    },
+    {
+      "id":"22",
+      "nombre":"Bolivia",
+      "capital":"La Paz",
+      "moneda":"Boliviano",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"23",
+      "nombre":"Bosnia H.",
+      "capital":"Sarajevo",
+      "moneda":"Dinar B.H.",
+      "idioma":"Servo-Croata"
+    },
+    {
+      "id":"24",
+      "nombre":"Brasil",
+      "capital":"Brasilia",
+      "moneda":"Cruzeiro Real",
+      "idioma":"Portugues"
+    },
+    {
+      "id":"25",
+      "nombre":"Brunei",
+      "capital":"Bandar",
+      "moneda":"D\u00f3lar",
+      "idioma":"Malayo"
+    },
+    {
+      "id":"26",
+      "nombre":"Bulgaria",
+      "capital":"Sofia",
+      "moneda":"Lev",
+      "idioma":"B\u00falgaro"
+    },
+    {
+      "id":"27",
+      "nombre":"Burkina Faso",
+      "capital":"Uagadugu",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"28",
+      "nombre":"Burundi",
+      "capital":"Buyunbura",
+      "moneda":"Francos",
+      "idioma":"Kirundi"
+    },
+    {
+      "id":"29",
+      "nombre":"Cabo Verde",
+      "capital":"Prai",
+      "moneda":"Escudo C.V.",
+      "idioma":"Portugu\u00e9s"
+    },
+    {
+      "id":"30",
+      "nombre":"Camboya",
+      "capital":"Pnom Pen",
+      "moneda":"Nuevo Riel",
+      "idioma":"Khmar"
+    },
+    {
+      "id":"31",
+      "nombre":"Camer\u00fan",
+      "capital":"Yaundee",
+      "moneda":"Franco (C.F.A.)",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"32",
+      "nombre":"Canad\u00e1",
+      "capital":"Otawa",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"33",
+      "nombre":"Colombia",
+      "capital":"Bogota",
+      "moneda":"Peso",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"34",
+      "nombre":"Comoras",
+      "capital":"Mnroni",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"35",
+      "nombre":"Congo",
+      "capital":"Brazzaville",
+      "moneda":"Franco(C.F.A.)",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"36",
+      "nombre":"Corea del Norte",
+      "capital":"Pyong Yang",
+      "moneda":"Won Corea Norte",
+      "idioma":"Coreano"
+    },
+    {
+      "id":"37",
+      "nombre":"Corea del Sur",
+      "capital":"S\u00e9ul",
+      "moneda":"Won Corea Norte",
+      "idioma":"Coreano"
+    },
+    {
+      "id":"38",
+      "nombre":"Costa Rica",
+      "capital":"San Jos\u00e9",
+      "moneda":"Col\u00f3n",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"39",
+      "nombre":"Cote Divoire",
+      "capital":"Yamoussoukro",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"40",
+      "nombre":"Croacia",
+      "capital":"Zagred",
+      "moneda":"Kuna",
+      "idioma":"Croata"
+    },
+    {
+      "id":"41",
+      "nombre":"Cuba",
+      "capital":"La Habana",
+      "moneda":"Peso Cubano",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"42",
+      "nombre":"Chad",
+      "capital":"N´ Djamena",
+      "moneda":"Franco C.F.A.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"43",
+      "nombre":"Chile",
+      "capital":"Santiago",
+      "moneda":"Peso",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"44",
+      "nombre":"China R. Pop.",
+      "capital":"Pekin",
+      "moneda":"Yuan",
+      "idioma":"Chino"
+    },
+    {
+      "id":"45",
+      "nombre":"China Taiwan",
+      "capital":"Taipei",
+      "moneda":"Nuevo D\u00f3lar T.",
+      "idioma":"Chino"
+    },
+    {
+      "id":"46",
+      "nombre":"Chipre",
+      "capital":"Nicosia",
+      "moneda":"Libra Ch.",
+      "idioma":"Griego Turco"
+    },
+    {
+      "id":"47",
+      "nombre":"Dinamarca",
+      "capital":"Copenhague",
+      "moneda":"Corona",
+      "idioma":"Danes"
+    },
+    {
+      "id":"48",
+      "nombre":"Djibouti",
+      "capital":"Djibouti",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"49",
+      "nombre":"Dominica",
+      "capital":"Rousseau",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"50",
+      "nombre":"Ecuador",
+      "capital":"Quito",
+      "moneda":"Sucre",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"51",
+      "nombre":"Egipto",
+      "capital":"El Cairo",
+      "moneda":"Libra",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"52",
+      "nombre":"E. Arabes U.",
+      "capital":"Abu Dhabi",
+      "moneda":"Diraham",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"53",
+      "nombre":"Eslovaquia",
+      "capital":"Batrislaba",
+      "moneda":"Corona",
+      "idioma":"Eslovaco"
+    },
+    {
+      "id":"54",
+      "nombre":"Eslovenia",
+      "capital":"Liubliana",
+      "moneda":"D\u00f3lar",
+      "idioma":"Esloveno"
+    },
+    {
+      "id":"55",
+      "nombre":"Espa\u00f1a",
+      "capital":"Madrid",
+      "moneda":"Euro",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"56",
+      "nombre":"EE.UU",
+      "capital":"Washingt\u00f3n",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"57",
+      "nombre":"Estonia",
+      "capital":"Tallinn",
+      "moneda":"Corona",
+      "idioma":"Estonio"
+    },
+    {
+      "id":"58",
+      "nombre":"Etiopia",
+      "capital":"Addisabeba",
+      "moneda":"Birr",
+      "idioma":"Amarico"
+    },
+    {
+      "id":"59",
+      "nombre":"Filipinas",
+      "capital":"Manila",
+      "moneda":"Peso F.",
+      "idioma":"Filipino"
+    },
+    {
+      "id":"60",
+      "nombre":"Finlandia",
+      "capital":"Heinsinki",
+      "moneda":"Marco F.",
+      "idioma":"Fin\u00e9s"
+    },
+    {
+      "id":"61",
+      "nombre":"Francia",
+      "capital":"Par\u00eds",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"62",
+      "nombre":"Gabon",
+      "capital":"Libreville",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"63",
+      "nombre":"Gambia",
+      "capital":"Banjul",
+      "moneda":"Dalasi",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"64",
+      "nombre":"Georgia",
+      "capital":"Tebelice",
+      "moneda":"Kup\u00f3n",
+      "idioma":"Gerogiano"
+    },
+    {
+      "id":"65",
+      "nombre":"Ghana",
+      "capital":"Acca",
+      "moneda":"Nuevo Cedi",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"66",
+      "nombre":"Granada",
+      "capital":"Georges",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingres"
+    },
+    {
+      "id":"67",
+      "nombre":"Grecia",
+      "capital":"Atenas",
+      "moneda":"Dracma",
+      "idioma":"Griego"
+    },
+    {
+      "id":"68",
+      "nombre":"Guatemala",
+      "capital":"Guatemala",
+      "moneda":"Quetzal",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"69",
+      "nombre":"Guinea",
+      "capital":"Conakry",
+      "moneda":"Franco G.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"70",
+      "nombre":"Guinea Bissau",
+      "capital":"Bissau",
+      "moneda":"Peso",
+      "idioma":"Portugu\u00e9s"
+    },
+    {
+      "id":"71",
+      "nombre":"Guinea Ecuat. l",
+      "capital":"Malabo",
+      "moneda":"Franco C.F.A.",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"72",
+      "nombre":"Guyana",
+      "capital":"Georgeetown",
+      "moneda":"D\u00f3lar G.",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"73",
+      "nombre":"Haiti",
+      "capital":"Puerto principe",
+      "moneda":"Gourde",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"74",
+      "nombre":"Honduras",
+      "capital":"Tegusigalpa",
+      "moneda":"Lempira",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"75",
+      "nombre":"Hungria",
+      "capital":"Budapest",
+      "moneda":"Flor\u00edn",
+      "idioma":"Hungaro"
+    },
+    {
+      "id":"76",
+      "nombre":"India",
+      "capital":"Nueva Delhi",
+      "moneda":"Rupia",
+      "idioma":"Indu"
+    },
+    {
+      "id":"77",
+      "nombre":"Indonesia",
+      "capital":"Yakarta",
+      "moneda":"Rupia Indonesio",
+      "idioma":"Indonesio"
+    },
+    {
+      "id":"78",
+      "nombre":"Irak",
+      "capital":"Bagdad",
+      "moneda":"Dinar Iraqui",
+      "idioma":"Iraqui"
+    },
+    {
+      "id":"79",
+      "nombre":"Iran",
+      "capital":"Teher\u00e1n",
+      "moneda":"Rial",
+      "idioma":"Farci"
+    },
+    {
+      "id":"80",
+      "nombre":"Irlanda",
+      "capital":"Dublin",
+      "moneda":"Libra J.",
+      "idioma":"Irland\u00e9s"
+    },
+    {
+      "id":"81",
+      "nombre":"Islandia",
+      "capital":"Reykiavick",
+      "moneda":"Corona",
+      "idioma":"Island\u00e9s"
+    },
+    {
+      "id":"82",
+      "nombre":"Islas Marshal",
+      "capital":"Majuro",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"83",
+      "nombre":"Islas Salom\u00f3n",
+      "capital":"Honiara",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"84",
+      "nombre":"Islas Palau",
+      "capital":"Koror",
+      "moneda":"D\u00f3lar U.S.A.",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"85",
+      "nombre":"Israel",
+      "capital":"Jerusal\u00e9n",
+      "moneda":"Nuevo Siclo",
+      "idioma":"Hebreo"
+    },
+    {
+      "id":"86",
+      "nombre":"Italia",
+      "capital":"Roma",
+      "moneda":"Lira",
+      "idioma":"Italiano"
+    },
+    {
+      "id":"87",
+      "nombre":"Jalibia",
+      "capital":"Tripoli",
+      "moneda":"Dinar Libio",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"88",
+      "nombre":"Jamaica",
+      "capital":"King",
+      "moneda":"D\u00f3lar Jamaica",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"89",
+      "nombre":"Jap\u00f3n",
+      "capital":"Tokio",
+      "moneda":"Yen",
+      "idioma":"Japon\u00e9s"
+    },
+    {
+      "id":"90",
+      "nombre":"Jordiania",
+      "capital":"Amman",
+      "moneda":"Dinar Jordano",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"91",
+      "nombre":"Kenia",
+      "capital":"Nairobi",
+      "moneda":"Chelin Kenianc",
+      "idioma":"Kiswahili"
+    },
+    {
+      "id":"92",
+      "nombre":"Kirguistan",
+      "capital":"Dieshkek",
+      "moneda":"Song",
+      "idioma":"Kirguis"
+    },
+    {
+      "id":"93",
+      "nombre":"Kiribati",
+      "capital":"Bairiki",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"94",
+      "nombre":"Kuwait",
+      "capital":"Kuwait",
+      "moneda":"Dinar Kuwait",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"95",
+      "nombre":"Lao",
+      "capital":"Vien Tiane",
+      "moneda":"Nuevo Kip",
+      "idioma":"Lao"
+    },
+    {
+      "id":"96",
+      "nombre":"Lesotho",
+      "capital":"Macer\u00fa",
+      "moneda":"Sesoto",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"97",
+      "nombre":"Letonia",
+      "capital":"Riga",
+      "moneda":"Lat",
+      "idioma":"Let\u00f3n"
+    },
+    {
+      "id":"98",
+      "nombre":"L\u00edbano",
+      "capital":"Beirut",
+      "moneda":"Libra Libanesa",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"99",
+      "nombre":"Liberia",
+      "capital":"Monrovia",
+      "moneda":"D\u00f3lar L.",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"100",
+      "nombre":"Liechtenstein",
+      "capital":"Vaduz",
+      "moneda":"Franco S.",
+      "idioma":"Alem\u00e1n"
+    },
+    {
+      "id":"101",
+      "nombre":"Lituania",
+      "capital":"Vilma",
+      "moneda":"Litas",
+      "idioma":"Lituano"
+    },
+    {
+      "id":"102",
+      "nombre":"Luxemburgo",
+      "capital":"Luxemburgo",
+      "moneda":"Franco L",
+      "idioma":"Letzeburgu\u00e9s"
+    },
+    {
+      "id":"103",
+      "nombre":"Macedonia",
+      "capital":"Skopje",
+      "moneda":"Dinar M.",
+      "idioma":"Macedonio"
+    },
+    {
+      "id":"104",
+      "nombre":"Madagascar",
+      "capital":"Antananarivo",
+      "moneda":"Franco Malgache",
+      "idioma":"Malgach\u00e9"
+    },
+    {
+      "id":"105",
+      "nombre":"Malasia",
+      "capital":"Kuala Lumpur",
+      "moneda":"Ringgit",
+      "idioma":"Malayo"
+    },
+    {
+      "id":"106",
+      "nombre":"Malawi",
+      "capital":"Lilongwe",
+      "moneda":"Kwacha",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"107",
+      "nombre":"Malvidas",
+      "capital":"Male",
+      "moneda":"Rufyaa",
+      "idioma":"Maldivo"
+    },
+    {
+      "id":"108",
+      "nombre":"Mal\u00ed",
+      "capital":"Bamako",
+      "moneda":"Franco M.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"109",
+      "nombre":"Malta",
+      "capital":"La Valetta",
+      "moneda":"Lira M.",
+      "idioma":"Malt\u00e9s"
+    },
+    {
+      "id":"110",
+      "nombre":"Marruecos",
+      "capital":"Rabat",
+      "moneda":"Dirham",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"111",
+      "nombre":"Mauritania",
+      "capital":"Nova Kchott",
+      "moneda":"Ouguiya",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"112",
+      "nombre":"Mauricio",
+      "capital":"Port Louis",
+      "moneda":"Rupia",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"113",
+      "nombre":"M\u00e9xico",
+      "capital":"M\u00e9xico D. F.",
+      "moneda":"Nuevo Peso",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"114",
+      "nombre":"Micronesia",
+      "capital":"Palekir",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"115",
+      "nombre":"Moldava",
+      "capital":"Kishinev",
+      "moneda":"Leu Moldovo",
+      "idioma":"Rumano"
+    },
+    {
+      "id":"116",
+      "nombre":"Monaco",
+      "capital":"Monaco-Ville",
+      "moneda":"Franco Franc\u00e9s",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"117",
+      "nombre":"Mongolia",
+      "capital":"Ulan Bator",
+      "moneda":"Tughrik",
+      "idioma":"Mongol"
+    },
+    {
+      "id":"118",
+      "nombre":"Mozambique",
+      "capital":"Maputo",
+      "moneda":"Metical",
+      "idioma":"Portugu\u00e9s"
+    },
+    {
+      "id":"119",
+      "nombre":"Myanmar(Bir)",
+      "capital":"Yangon",
+      "moneda":"Kyat",
+      "idioma":"Birmano"
+    },
+    {
+      "id":"120",
+      "nombre":"Namibia",
+      "capital":"Windhoek",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"121",
+      "nombre":"Nauro",
+      "capital":"Yaren",
+      "moneda":"D\u00f3lar",
+      "idioma":"Naurano"
+    },
+    {
+      "id":"122",
+      "nombre":"Nepal",
+      "capital":"Katmand\u00fa",
+      "moneda":"Rupia N.",
+      "idioma":"Nepal\u00e9s"
+    },
+    {
+      "id":"123",
+      "nombre":"Nicaragua",
+      "capital":"Managua",
+      "moneda":"C\u00f3rdoba",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"124",
+      "nombre":"N\u00edger",
+      "capital":"Niamey",
+      "moneda":"Franco",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"125",
+      "nombre":"Nigeria",
+      "capital":"Abuja",
+      "moneda":"Naira",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"126",
+      "nombre":"Nuruega",
+      "capital":"Oslo",
+      "moneda":"Corona N.",
+      "idioma":"Noruego"
+    },
+    {
+      "id":"127",
+      "nombre":"Nueva Zelandia",
+      "capital":"Wellington",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"128",
+      "nombre":"Om\u00e1n",
+      "capital":"Mascate",
+      "moneda":"Rial Omani",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"129",
+      "nombre":"Paises Bajos",
+      "capital":"Amsterdam",
+      "moneda":"Florin (Guilder)",
+      "idioma":"Holandes"
+    },
+    {
+      "id":"130",
+      "nombre":"Pakist\u00e1n",
+      "capital":"Islamabad",
+      "moneda":"Rupia",
+      "idioma":"Urd\u00fa"
+    },
+    {
+      "id":"131",
+      "nombre":"Panam\u00e1",
+      "capital":"Panam\u00e1",
+      "moneda":"Balb\u00f3a",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"132",
+      "nombre":"Pap\u00faa N.G.",
+      "capital":"Port Moresvy",
+      "moneda":"Kina",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"133",
+      "nombre":"Paraguay",
+      "capital":"Asunci\u00f3n",
+      "moneda":"Guaran\u00ed",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"134",
+      "nombre":"Per\u00fa",
+      "capital":"Lima",
+      "moneda":"Nuevo Saol",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"135",
+      "nombre":"Polonia",
+      "capital":"Varsovia",
+      "moneda":"Zloty",
+      "idioma":"Polaco"
+    },
+    {
+      "id":"136",
+      "nombre":"Portugal",
+      "capital":"Lisboa",
+      "moneda":"Escudo",
+      "idioma":"Portu"
+    },
+    {
+      "id":"137",
+      "nombre":"Puerto Rico",
+      "capital":"San Juan",
+      "moneda":"D\u00f3lar U.S.A.",
+      "idioma":"Ingl\u00e9s-Espa\u00f1ol"
+    },
+    {
+      "id":"138",
+      "nombre":"Reino Unido",
+      "capital":"Londres",
+      "moneda":"Libra",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"139",
+      "nombre":"R.Centro Africano",
+      "capital":"Bangui",
+      "moneda":"Franco C.F.A.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"140",
+      "nombre":"Republica Checa",
+      "capital":"Praga",
+      "moneda":"Corona",
+      "idioma":"Checo"
+    },
+    {
+      "id":"141",
+      "nombre":"Republica Dominicana",
+      "capital":"Santo Domingo",
+      "moneda":"Peso D.",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"142",
+      "nombre":"Rumania",
+      "capital":"Bucarest",
+      "moneda":"Lev",
+      "idioma":"Rumano"
+    },
+    {
+      "id":"143",
+      "nombre":"Rusia",
+      "capital":"Mosc\u00fa",
+      "moneda":"Rublo",
+      "idioma":"Rus\u00f3"
+    },
+    {
+      "id":"144",
+      "nombre":"Qatar",
+      "capital":"Doha",
+      "moneda":"Rival Q.",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"145",
+      "nombre":"Ruanda",
+      "capital":"Kigali",
+      "moneda":"Franco R.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"146",
+      "nombre":"Salvador, El.",
+      "capital":"San Salvador",
+      "moneda":"Col\u00f3n",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"147",
+      "nombre":"Samoa Occ.",
+      "capital":"Apia",
+      "moneda":"Tala",
+      "idioma":"Samoano"
+    },
+    {
+      "id":"148",
+      "nombre":"San Cristobal y N.",
+      "capital":"Basseterre",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"149",
+      "nombre":"San Marino",
+      "capital":"San Marino",
+      "moneda":"Lira Italiana",
+      "idioma":"Italiano"
+    },
+    {
+      "id":"150",
+      "nombre":"San Vicente y G.",
+      "capital":"Kingstwn",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"151",
+      "nombre":"Santa Lucia",
+      "capital":"Castries",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"152",
+      "nombre":"Santo Tome",
+      "capital":"Santo Tom\u00e9",
+      "moneda":"Dogra",
+      "idioma":"Portugu\u00e9s"
+    },
+    {
+      "id":"153",
+      "nombre":"Senegal",
+      "capital":"Dakar",
+      "moneda":"Franco C.F.A.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"154",
+      "nombre":"Seychelles",
+      "capital":"Victoria",
+      "moneda":"Rupia S.",
+      "idioma":"Criollo"
+    },
+    {
+      "id":"155",
+      "nombre":"Sierra Lorena",
+      "capital":"Freetown",
+      "moneda":"Leone",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"156",
+      "nombre":"Singapur",
+      "capital":"Singapur",
+      "moneda":"D\u00f3lar S.",
+      "idioma":"Malayo"
+    },
+    {
+      "id":"157",
+      "nombre":"Siria",
+      "capital":"Damasco",
+      "moneda":"Libra S.",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"158",
+      "nombre":"Somalia",
+      "capital":"Mogadiscio",
+      "moneda":"Chelin",
+      "idioma":"Somal\u00ed"
+    },
+    {
+      "id":"159",
+      "nombre":"Sri. Lanka",
+      "capital":"Colombo",
+      "moneda":"Rupia",
+      "idioma":"Singal\u00e9s"
+    },
+    {
+      "id":"160",
+      "nombre":"Sudafrica",
+      "capital":"Bloem Fontein",
+      "moneda":"Rand",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"161",
+      "nombre":"Sud\u00e1n",
+      "capital":"Jart\u00fam",
+      "moneda":"Libra Sud\u00e1n",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"162",
+      "nombre":"Suecia",
+      "capital":"Estocolmo",
+      "moneda":"Corona",
+      "idioma":"Sueco"
+    },
+    {
+      "id":"163",
+      "nombre":"Suiza",
+      "capital":"Berna",
+      "moneda":"Franco S.",
+      "idioma":"Alem\u00e1n"
+    },
+    {
+      "id":"164",
+      "nombre":"Surinam",
+      "capital":"Paramarib\u00f3",
+      "moneda":"Guilder S.",
+      "idioma":"Hlandes"
+    },
+    {
+      "id":"165",
+      "nombre":"Swazilandia",
+      "capital":"Mbabane",
+      "moneda":"Lilan Gueni",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"166",
+      "nombre":"Tailandia",
+      "capital":"Bangkok",
+      "moneda":"Bath",
+      "idioma":"Tai"
+    },
+    {
+      "id":"167",
+      "nombre":"Tanzania",
+      "capital":"Dodona-Dares",
+      "moneda":"Chel\u00edn T.",
+      "idioma":"Swahile"
+    },
+    {
+      "id":"168",
+      "nombre":"Tayikistan",
+      "capital":"Dushambe",
+      "moneda":"Rublo",
+      "idioma":"Tayikistani"
+    },
+    {
+      "id":"169",
+      "nombre":"Tgo",
+      "capital":"Lom\u00e9",
+      "moneda":"Franco C.F.A.",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"170",
+      "nombre":"Tonga",
+      "capital":"Nuku-Alofa",
+      "moneda":"Pa´Anga",
+      "idioma":"Tongano"
+    },
+    {
+      "id":"171",
+      "nombre":"Trinidad y T.",
+      "capital":"Puerto Espa\u00f1a",
+      "moneda":"D\u00f3lar T.",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"172",
+      "nombre":"T\u00fanez",
+      "capital":"T\u00fanez",
+      "moneda":"Dinar T.",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"173",
+      "nombre":"Turqu\u00eda",
+      "capital":"Ankara",
+      "moneda":"Lira Turquia",
+      "idioma":"Turco"
+    },
+    {
+      "id":"174",
+      "nombre":"Turkmenistan",
+      "capital":"Ashkhabad",
+      "moneda":"Manat",
+      "idioma":"Turcomano"
+    },
+    {
+      "id":"175",
+      "nombre":"Tubal\u00fa",
+      "capital":"Funga fale",
+      "moneda":"D\u00f3lar",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"176",
+      "nombre":"Ucrania",
+      "capital":"Kiev",
+      "moneda":"Karbovanets",
+      "idioma":"Ucraniano"
+    },
+    {
+      "id":"177",
+      "nombre":"Uganda",
+      "capital":"Kampala",
+      "moneda":"Chal\u00edn Ugand\u00e9s",
+      "idioma":"Ingles"
+    },
+    {
+      "id":"178",
+      "nombre":"Uruguay",
+      "capital":"Montevideo",
+      "moneda":"Peso Uruguayo",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"179",
+      "nombre":"Uzbekistan",
+      "capital":"Thasken",
+      "moneda":"Sum",
+      "idioma":"Uzbeco"
+    },
+    {
+      "id":"180",
+      "nombre":"Vanuato",
+      "capital":"Puerto Villa",
+      "moneda":"Bat\u00fa",
+      "idioma":"Bislama"
+    },
+    {
+      "id":"181",
+      "nombre":"Vati",
+      "capital":"C. Vaticano",
+      "moneda":"Lira Italiana",
+      "idioma":"Italiano"
+    },
+    {
+      "id":"182",
+      "nombre":"Venezuela",
+      "capital":"Caracas",
+      "moneda":"Bol\u00edvar",
+      "idioma":"Espa\u00f1ol"
+    },
+    {
+      "id":"183",
+      "nombre":"Vietnam",
+      "capital":"Hanoi",
+      "moneda":"Dong",
+      "idioma":"Vietnamita"
+    },
+    {
+      "id":"184",
+      "nombre":"Yemen",
+      "capital":"Sanala",
+      "moneda":"Riyal Y.",
+      "idioma":"Arabe"
+    },
+    {
+      "id":"185",
+      "nombre":"Yugoslavia",
+      "capital":"Belgrado",
+      "moneda":"Nuevo Dinar",
+      "idioma":"Servo-Croata"
+    },
+    {
+      "id":"186",
+      "nombre":"Zare",
+      "capital":"Kinshasa",
+      "moneda":"Zaire",
+      "idioma":"Franc\u00e9s"
+    },
+    {
+      "id":"187",
+      "nombre":"Zambia",
+      "capital":"Lusaka",
+      "moneda":"Kwacha",
+      "idioma":"Ingl\u00e9s"
+    },
+    {
+      "id":"188",
+      "nombre":"Zimbowe",
+      "capital":"Harare",
+      "moneda":"D\u00f3lar Zimbawe",
+      "idioma":"Ingl\u00e9s"
+    }
+  ]
+}
