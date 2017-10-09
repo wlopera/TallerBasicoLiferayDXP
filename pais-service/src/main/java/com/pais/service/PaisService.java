@@ -36,7 +36,7 @@ public class PaisService implements PaisApi {
 	@Override
 	public List<Pais> obtenerlistaPaises() {
 		if (paises == null || paises.size() == 0) {
-			paises = new JSONRead().getDataPaises();
+			paises = obtenerListaPaisesOriginales();
 		}
 		return paises;
 	}
@@ -49,7 +49,8 @@ public class PaisService implements PaisApi {
 	 */
 	@Override
 	public List<Pais> obtenerListaPaisesOriginales() {
-		return new JSONRead().getDataPaises();
+		paises = new JSONRead().getDataPaises();
+		return paises;
 	}
 
 	/**
@@ -57,8 +58,7 @@ public class PaisService implements PaisApi {
 	 * 
 	 * @author wlopera
 	 * 
-	 * @param pais
-	 *            Pais a agregar
+	 * @param pais Pais a agregar
 	 * @return Lista de paises actualizada
 	 */
 	@Override
@@ -73,8 +73,7 @@ public class PaisService implements PaisApi {
 	 * 
 	 * @author wlopera
 	 * 
-	 * @param pais
-	 *            Pais a modificar
+	 * @param pais Pais a modificar
 	 * @return Lista de paises actualizada
 	 */
 	@Override
@@ -96,8 +95,7 @@ public class PaisService implements PaisApi {
 	 * 
 	 * @author wlopera
 	 * 
-	 * @param pais
-	 *            Pais a borrar
+	 * @param pais Pais a borrar
 	 * @return Lista de paises actualizada
 	 */
 	@Override
