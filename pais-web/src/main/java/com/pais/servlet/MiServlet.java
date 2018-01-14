@@ -38,8 +38,6 @@ public class MiServlet extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<h1>Respuesta .. peticion doGet Servlet...!!</h1>");
-        out.println("<p><%= System.out.println('Prueba de Expresiones JAVA dentro del HTML') %></p>");
-        out.println("<p>Hora actual: <%= new java.util.Date()%></p>");
         out.println("<br>");
         out.println("<h2>Realizar una peticion POST</h1>");
         out.println("<hr>");
