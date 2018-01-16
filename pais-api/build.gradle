@@ -1,0 +1,31 @@
+group = "com.pais"
+
+buildscript {
+	dependencies {
+		classpath group: "com.liferay", name: "com.liferay.gradle.plugins", version: "$gradlePluginsVersion"
+	}
+
+	repositories {
+		mavenLocal()
+
+		maven {
+			url "https://cdn.lfrs.sl/repository.liferay.com/nexus/content/groups/public"
+		}
+	}
+}
+
+apply plugin: "maven"
+apply plugin: "com.liferay.plugin"
+apply plugin: "java"
+
+dependencies {
+	compileOnly group: "org.osgi", name: "org.osgi.compendium", version: "$compendiumVersion"
+}
+
+repositories {
+	mavenLocal()
+
+	maven {
+		url "https://cdn.lfrs.sl/repository.liferay.com/nexus/content/groups/public"
+	}
+}
